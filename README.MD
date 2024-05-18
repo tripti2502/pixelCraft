@@ -140,7 +140,6 @@ You can select any color by clicking on it.
 You can also set color Transparency to create translucent colors and create color combinations. This property can be used to create complex patterns with greater flexibility.
 **Right click on color to set transparency value between 0 and 1**
 
-Thanks to [@mrfoogles](https://github.com/mrfoogles) for this fix [#41](https://github.com/rgab1508/PixelCraft/pull/41)
 
 ![Complex Pattern](https://user-images.githubusercontent.com/17960677/96028936-95ad6d00-0e77-11eb-8a8c-07caa0f2a8b5.jpg)
 
