@@ -128,7 +128,6 @@ Save Image option is available in the Drop-down on top left corner, It will down
 
 After making all the frames and making necessary changes in Frames Panel, you can export the GIF using option present in Dropdown. The dimensions will be same as that of image.
 
-Thanks to [@eagleloid](https://github.com/eagleloid) for this fix [#44](https://github.com/rgab1508/PixelCraft/pull/44)
 
 ## Color Palette & Transparency
 
